@@ -1,0 +1,114 @@
+$icon-height: 6rem;
+$icon-width: 6rem;
+
+.icon-cart-shopping-solid {
+    &::before {
+        content: '';
+        display: inline-block;
+        height: $icon-height;
+        width: $icon-width;
+        background-color: #000;
+        -webkit-mask-image: url("../icons/SVG/cart-shopping-solid.svg");
+        mask-image: url("../icons/SVG/cart-shopping-solid.svg");
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center center;
+    }
+}
+
+.icon-heart-solid {
+    &::before {
+        content: '';
+        display: inline-block;
+        height: $icon-height;
+        width: $icon-width;
+        background-color: #000;
+        -webkit-mask-image: url("../icons/SVG/heart-solid.svg");
+        mask-image: url("../icons/SVG/heart-solid.svg");
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center;
+    }
+}
+
+.icon-user-solid {
+    &::before {
+        content: '';
+        display: inline-block;
+        height: $icon-height;
+        width: $icon-width;
+        background-color: #000;
+        -webkit-mask-image: url("../icons/SVG/user-solid.svg");
+        mask-image: url("../icons/SVG/user-solid.svg");
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center;
+    }
+}
+
+.icon-facebook-f {
+    &::before {
+        content: '';
+        display: inline-block;
+        height: $icon-height;
+        width: $icon-width;
+        background-color: #000;
+        -webkit-mask-image: url("../icons/SVG/facebook-f.svg");
+        mask-image: url("../icons/SVG/facebook-f.svg");
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center;
+    }
+}
+
+.icon-instagram {
+    &::before {
+        content: '';
+        display: inline-block;
+        height: $icon-height;
+        width: $icon-width;
+        background-color: #000;
+        -webkit-mask-image: url("../icons/SVG/instagram.svg");
+        mask-image: url("../icons/SVG/instagram.svg");
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center top;
+    }
+}
+
+.icon-linkedin-in {
+    &::before {
+        content: '';
+        display: inline-block;
+        height: $icon-height;
+        width: $icon-width;
+        background-color: #000;
+        -webkit-mask-image: url("../icons/SVG/linkedin-in.svg");
+        mask-image: url("../icons/SVG/linkedin-in.svg");
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center;
+    }
+}
+
+.icon-x-twitter {
+    &::before {
+        content: '';
+        display: inline-block;
+        height: $icon-height;
+        width: $icon-width;
+        background-color: #000;
+        -webkit-mask-image: url("../icons/SVG/x-twitter.svg");
+        mask-image: url("../icons/SVG/x-twitter.svg");
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: center;
+    }
+}
