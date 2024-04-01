@@ -1,5 +1,19 @@
 /* Font-Families */
-$primary__font--Bold: "RobotoMono__Bold--700";
-$primary__font--Thin: "RobotoMono__Thin--100";
+$primary__font--regular: "Pyxidium-Quick__Regular--100"; 
+$secondary__font--Bold: "RobotoMono__Bold--700";
 
-$secondary__font--ExtrBold: "OpenSans__ExtraBold--800";
+/* colors */
+$white-color: #fff;
+$black-color: #000;
+$primary-color: #c72092;
+$secondary-color:#6c14d0;
+
+/* box-shadows */
+$box-shadow_one: 0 0 8px rgba(0,0,0,0.6);
+
+/* linear-gradients */
+$linear-gradient_1: linear-gradient(to right, #c72092, #6c14d0);
+// Reference: 
+// $primary__font--Bold: "RobotoMono__Bold--700";
+// $primary__font--Thin: "RobotoMono__Thin--100";
+// $secondary__font--ExtrBold: "OpenSans__ExtraBold--800";

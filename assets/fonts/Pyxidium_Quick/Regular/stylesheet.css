@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Pyxidium Quick';
+    src: url('PyxidiumQuick.eot');
+    src: url('PyxidiumQuick.eot?#iefix') format('embedded-opentype'),
+        url('PyxidiumQuick.woff2') format('woff2'),
+        url('PyxidiumQuick.woff') format('woff'),
+        url('PyxidiumQuick.ttf') format('truetype'),
+        url('PyxidiumQuick.svg#PyxidiumQuick') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

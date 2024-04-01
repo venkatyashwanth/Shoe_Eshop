@@ -1,0 +1,48 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-xmark-solid {
+  width: 0.75em;
+}
+
+.icon-bars-solid {
+  width: 0.875em;
+}
+
+.icon-chevron-right-solid {
+  width: 0.625em;
+}
+
+.icon-facebook-f {
+  width: 0.625em;
+}
+
+.icon-instagram {
+  width: 0.875em;
+}
+
+.icon-linkedin-in {
+  width: 0.875em;
+}
+
+.icon-cart-shopping-solid {
+  width: 1.125em;
+}
+
+.icon-user-solid {
+  width: 0.875em;
+}
